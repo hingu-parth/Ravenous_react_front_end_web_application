@@ -3,7 +3,6 @@ import './App.css';
 import SearchBar from '../SeachBar/SearchBar';
 import BusinessList from '../BusinessList/BusinessList';
 import Yelp from '../../util/Yelp';
-import Business from '../Business/Business';
 
 class App extends React.Component {
   constructor(props){
